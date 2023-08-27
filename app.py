@@ -11,7 +11,7 @@ import urllib.request
 import os
 from imblearn.over_sampling import RandomOverSampler, SMOTE
 import lightgbm as lgb
-lgb.basic_params["verbosity"] = -1
+
 
 target_column = None
 
