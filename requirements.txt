@@ -1,8 +1,0 @@
-PIL
-streamlit
-plotly
-pycaret
-pandas_profiling
-pandas
-streamlit_pandas_profiling
-urllib3
