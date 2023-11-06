@@ -2,7 +2,7 @@ pillow
 streamlit
 plotly
 pycaret
-pandas_profiling
+ydata_profiling
 pandas
 streamlit_pandas_profiling
 urllib3
