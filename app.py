@@ -4,7 +4,7 @@ from PIL import Image
 import streamlit as st
 from pycaret.regression import *
 from pycaret.classification import *
-import pandas_profiling
+import ydata_profiling
 import pandas as pd
 from streamlit_pandas_profiling import st_profile_report
 import urllib.request
